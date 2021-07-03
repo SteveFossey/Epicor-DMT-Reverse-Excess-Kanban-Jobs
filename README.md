@@ -29,7 +29,7 @@ Step 4: re-close the affected KB jobs
   upload spreadsheet into DMT program "Job Closing"
 
 
-**Queries to generate DMT upload templates to identify and reverse excess-issued kanban receipt material and job materials
+**Queries to generate DMT upload templates to identify and reverse excess-issued kanban receipt material and job materials**
 	
 	
     Copyright (C) <2021>  <Steve Fossey>
